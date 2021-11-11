@@ -1,0 +1,1 @@
+- https://www.apollographql.com/docs/tutorial/resolvers/#the-resolver-function-signature
